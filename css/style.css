@@ -1,0 +1,7 @@
+.camping {
+	background-image: url("../img/camping.png");
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
