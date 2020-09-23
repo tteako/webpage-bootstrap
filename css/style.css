@@ -1,7 +1,28 @@
+body {
+	background-color: #343a40;
+}
 .camping {
 	background-image: url("../img/camping.png");
 	height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+}
+a {
+	text-decoration: none;
+}
+.p-absolute {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.img-width {
+	width: 150px;
+
+}
+.dest-text {
+	height: 200px;
+	width: 150px;
+	border: 2px solid #707070;
 }
